@@ -5,4 +5,6 @@
  - [Farnam Street](https://www.farnamstreetblog.com/)
  - [Ryan Holiday](http://ryanholiday.net/)
 - February 11
+ - [New Scientist](https://www.newscientist.com/)
  - [Big Think](http://bigthink.com/)
+ - [Nerdist](http://nerdist.com/)
